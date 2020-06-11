@@ -8,7 +8,7 @@ namespace CA_TESTE
         {
             Console.WriteLine("Exemplo de uso do github");
 
-            Console.Readkey();
+            Console.ReadKey();
         }
     }
 }
